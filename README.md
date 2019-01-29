@@ -1,2 +1,0 @@
-# MotionPay
-MotionPay DotNet  SDK
